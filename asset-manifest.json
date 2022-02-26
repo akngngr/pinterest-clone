@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/akngngr.github.io/pinterest-clone/static/css/main.a81a702d.css",
-    "main.js": "/akngngr.github.io/pinterest-clone/static/js/main.533cf580.js",
-    "static/js/787.117d8029.chunk.js": "/akngngr.github.io/pinterest-clone/static/js/787.117d8029.chunk.js",
-    "index.html": "/akngngr.github.io/pinterest-clone/index.html",
-    "main.a81a702d.css.map": "/akngngr.github.io/pinterest-clone/static/css/main.a81a702d.css.map",
-    "main.533cf580.js.map": "/akngngr.github.io/pinterest-clone/static/js/main.533cf580.js.map",
-    "787.117d8029.chunk.js.map": "/akngngr.github.io/pinterest-clone/static/js/787.117d8029.chunk.js.map"
+    "main.css": "/pinterest-clone/static/css/main.a81a702d.css",
+    "main.js": "/pinterest-clone/static/js/main.01f1b722.js",
+    "static/js/787.117d8029.chunk.js": "/pinterest-clone/static/js/787.117d8029.chunk.js",
+    "index.html": "/pinterest-clone/index.html",
+    "main.a81a702d.css.map": "/pinterest-clone/static/css/main.a81a702d.css.map",
+    "main.01f1b722.js.map": "/pinterest-clone/static/js/main.01f1b722.js.map",
+    "787.117d8029.chunk.js.map": "/pinterest-clone/static/js/787.117d8029.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a81a702d.css",
-    "static/js/main.533cf580.js"
+    "static/js/main.01f1b722.js"
   ]
 }
