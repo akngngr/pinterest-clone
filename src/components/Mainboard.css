@@ -1,0 +1,55 @@
+@media (min-width: 0px) and (max-width: 755px) {
+    .mainboard-container {
+        max-width: 500px;
+        column-count: 2;
+    }
+}
+@media (min-width: 756px) and (max-width: 1007px) {
+    .mainboard-container {
+        max-width: 756px;
+        column-count: 3;
+    }
+}
+
+@media (min-width: 1008px) and (max-width: 1259px) {
+    .mainboard-container {
+        max-width: 1008px;
+        column-count: 4;
+    }
+}
+@media (min-width: 1260px) and (max-width: 1511){
+    .mainboard-container {
+        max-width: 1260px;
+        column-count: 5;
+    }
+}
+@media (min-width: 1512px) and (max-width: 1763){
+    .mainboard-container {
+        max-width: 1512px;
+        column-count: 6;
+    }
+}
+@media (min-width: 1764) and (max-width: 2015){
+    .mainboard-container {
+        max-width: 1764px;
+        column-count: 7;
+    }
+}
+@media (min-width: 2016) and (max-width: 2267){
+    .mainboard-container {
+        max-width: 2016px;
+        column-count: 8;
+    }
+}
+@media (min-width: 2268) and (max-width: 2519){
+    .mainboard-container {
+        max-width: 2268px;
+        column-count: 9;
+    }
+}
+@media (min-width: 2520) and (max-width: 2771){
+    .mainboard-container {
+        max-width: 2520px;
+        column-count: 10;
+    }
+}
